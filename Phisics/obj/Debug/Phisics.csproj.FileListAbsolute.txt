@@ -1,0 +1,18 @@
+D:\CsA\Shcherback Bogdan\Project\Phisics\bin\Debug\Phisics.dll
+D:\CsA\Shcherback Bogdan\Project\Phisics\bin\Debug\Phisics.pdb
+D:\CsA\Shcherback Bogdan\Project\Phisics\obj\Debug\Phisics.csproj.AssemblyReference.cache
+D:\CsA\Shcherback Bogdan\Project\Phisics\obj\Debug\Phisics.csproj.CoreCompileInputs.cache
+D:\CsA\Shcherback Bogdan\Project\Phisics\obj\Debug\Phisics.dll
+D:\CsA\Shcherback Bogdan\Project\Phisics\obj\Debug\Phisics.pdb
+D:\Кит\C#\Advansed\Project\Phisics\bin\Debug\Phisics.dll
+D:\Кит\C#\Advansed\Project\Phisics\bin\Debug\Phisics.pdb
+D:\Кит\C#\Advansed\Project\Phisics\obj\Debug\Phisics.csproj.AssemblyReference.cache
+D:\Кит\C#\Advansed\Project\Phisics\obj\Debug\Phisics.csproj.CoreCompileInputs.cache
+D:\Кит\C#\Advansed\Project\Phisics\obj\Debug\Phisics.dll
+D:\Кит\C#\Advansed\Project\Phisics\obj\Debug\Phisics.pdb
+D:\CsA\Bogdan Shcherback\Project\Phisics\bin\Debug\Phisics.dll
+D:\CsA\Bogdan Shcherback\Project\Phisics\bin\Debug\Phisics.pdb
+D:\CsA\Bogdan Shcherback\Project\Phisics\obj\Debug\Phisics.csproj.AssemblyReference.cache
+D:\CsA\Bogdan Shcherback\Project\Phisics\obj\Debug\Phisics.csproj.CoreCompileInputs.cache
+D:\CsA\Bogdan Shcherback\Project\Phisics\obj\Debug\Phisics.dll
+D:\CsA\Bogdan Shcherback\Project\Phisics\obj\Debug\Phisics.pdb
